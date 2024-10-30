@@ -37,3 +37,6 @@
 ![diagrama de sequencia (produto_desativar)](https://github.com/user-attachments/assets/3be8251f-9267-4468-a573-84a06f8ebe5e)
 ### Produto_Incluir 
 ![diagrama de sequencia (produto_incluir)](https://github.com/user-attachments/assets/578bfb8c-36b7-4af0-87f9-d853fac32a1b)
+
+## Diagrama de Implantação
+![diagram de implantação](https://github.com/user-attachments/assets/d75eaa67-d41e-4179-8828-ace281e8a922)
